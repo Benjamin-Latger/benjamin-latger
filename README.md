@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a software engineer from france
 
-Currently working on a big bank project, i'm specialised in backend stuff but still working on front end skills on my free time such as mobiles app with flutter / firebase or web app with react.js / node.js
+Currently working on a bank project, i'm specialised in backend stuff but still working on my front end skills on my free time such as mobiles app with flutter / firebase or web app with react.js / node.js
 <br>
 
 ## Connect with me
