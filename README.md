@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World 👋
+I am a software engineer from france
 
-<!--
-**Benjamin-Latger/benjamin-latger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on a big bank project, i'm specialised in backend stuff but still working on front end skills on my free time such as mobiles app with flutter / firebase or web app with react.js / node.js
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+## Connect with me
+[<img align="left" alt="linked-in" src="https://www.linkedin.com/in/benjamin-latger/" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
+<br>
+<br>
+## Expertise
+section in progress
+<br>
+<br>
