@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello world 👋
 Je suis ingénieur conception et développement à Dijon !
 
 Je travaille actuellement sur un projet bancaire qui a débuté en 2014 ! 
