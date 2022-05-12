@@ -1,8 +1,10 @@
 ### Hello world 👋
-Je suis ingénieur conception et développement à Dijon !
+Je suis développeur full-stack JS !
 
-Je travaille actuellement sur un projet bancaire qui a débuté en 2014 ! 
-En bref il s'agit de construire une plateforme commune de traitement de flux bancaires pour tous les établissements du groupe BCPE.
+Je travaille actuellement dans une start-up : Panopli
+
+Par le passé j'ai eu la possibilité de travailler sur un projet bancaire qui a débuté en 2014.
+En bref il s'agissait de construire une plateforme commune de traitement de flux bancaires pour tous les établissements du groupe BCPE.
 
 J'aime coder sur mon temps libre, après tout c'est fun, quelques petits projets sur des technos et sujets qui m'intéressent. Par exemple le machine learning avec Python / Pandas, le mobile avec Flutter ou encore le web avec le combo MongoDB/Express/Node/React.
 
