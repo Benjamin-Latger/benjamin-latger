@@ -1,7 +1,6 @@
 ### Hello world 👋
-Je suis développeur full-stack JS !
 
-Je travaille actuellement dans une start-up : Panopli
+Je suis actuellement Lead Tech chez Panopli !
 
 Par le passé j'ai eu la possibilité de travailler sur un projet bancaire qui a débuté en 2014.
 En bref il s'agissait de construire une plateforme commune de traitement de flux bancaires pour tous les établissements du groupe BCPE.
